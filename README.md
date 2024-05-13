@@ -19,4 +19,4 @@ Ao implementar esse modelo no banco de dados, cada tabela seria representada por
 
 A seguir, está o Modelo Relacional:
 
-![Modelo Relacional Calebe](modeloRelacionaAfonso.png)
+![Modelo Relacional Calebe](modeloRelacional.png)
