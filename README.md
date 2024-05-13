@@ -4,7 +4,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Para o projeto de desenvolvimento web do instituto de psicologia animal, que requer um site funcionando como um formulário dinâmico para coletar informações de voluntários sobre o abandono de cães, o modelo relacional pode ser aplicado da seguinte forma:
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;<b>Users (Usuários) </b>: Armazenaria informações sobre os voluntários, como ID do usuário, nome, e-mail, idade, sexo, nível educacional, entre outros dados pessoais.
 
 &nbsp;&nbsp;&nbsp;&nbsp; <b>Resenha:</b> Esta tabela registraria as respostas dos usuários, incluindo o ID da resenha, o ID do usuário (chave estrangeira referenciando a tabela Users), data e hora da submissão, entre outros detalhes relevantes.
@@ -19,3 +18,5 @@
 Ao implementar esse modelo no banco de dados, cada tabela seria representada por um conjunto de colunas correspondentes aos atributos e cada linha representaria uma instância (fazendo uma comparação com OOP) dos dados. Os relacionamentos entre as tabelas são estabelecidos através de chaves estrangeiras, garantindo que referenciemos as tabelas corretas.
 
 A seguir, está o Modelo Relacional:
+
+![Modelo Relacional Calebe](modeloRelacionaAfonso.png)
